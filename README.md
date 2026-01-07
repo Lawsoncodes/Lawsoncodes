@@ -12,7 +12,7 @@ problem-solving, and building real-world applications. I enjoy working with
 Python and web technologies.
 
 ## Technical Skills
-- Programming Languages: Python, Java
+- Programming Languages: Python, Java, c++
 - Web Technologies: HTML, CSS
 - Frameworks: Django
 - Tools: Git, GitHub, VS Code
