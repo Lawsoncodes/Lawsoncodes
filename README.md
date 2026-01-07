@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Lawsoncodes/Lawsoncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lawson Prince
 
-Here are some ideas to get you started:
+🎓 Computer Science Undergraduate (Level 300)  
+💻 Aspiring Software Engineer  
+📍 Ghana  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a Computer Science student with a strong interest in software development,
+problem-solving, and building real-world applications. I enjoy working with
+Python and web technologies.
+
+## Technical Skills
+- Programming Languages: Python, Java
+- Web Technologies: HTML, CSS
+- Frameworks: Django
+- Tools: Git, GitHub, VS Code
+- Databases: SQLite, MySQL (basic)
+
+## Current Focus
+- Backend development with Django
+- Writing clean, maintainable code
+- Building academic and personal projects
+
